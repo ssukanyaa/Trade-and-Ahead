@@ -19,4 +19,4 @@ Used **K-Means Clustering** to segment stock data into meaningful groups based o
 
 ## 🔗 Notebook
 The full project notebook is available as an HTML file:
-👉 (Trade_Ahead_Clustering_Project.html)
+👉 (https://ssukanyaa.github.io/Trade-and-Ahead/)

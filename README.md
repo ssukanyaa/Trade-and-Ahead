@@ -16,7 +16,3 @@ Used **K-Means Clustering** to segment stock data into meaningful groups based o
 - Hierarchical Clustering
 - Cluster Profiling
 - PCA for visualization
-
-## 🔗 Notebook
-The full project notebook is available as an HTML file:
-👉 (https://ssukanyaa.github.io/Trade-and-Ahead/)
